@@ -1,0 +1,1 @@
+let mainForm = document.querySelector(`.container`);
